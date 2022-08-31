@@ -1,5 +1,4 @@
-# VisualizzazioneScientifica
-Progetto relativo al corso di Visualizzazione Scientifica - UniMi
+# Visualizzazione Scientifica - Marco Molinati, 923530
 
 # Ucraina Russia - Sentiment e TimeSeries Analysis
 
