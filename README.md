@@ -1,4 +1,4 @@
-# Visualizzazione Scientifica - Marco Molinati, 923530
+# Visualizzazione Scientifica - Marco Molinati
 
 # Ucraina Russia - Sentiment e TimeSeries Analysis
 
